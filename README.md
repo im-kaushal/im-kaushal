@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaushal Kumar</h1>
 <h3 align="center">A 3rd Year CSE student with marketing and SEO skills</h3>
 
-<p align="left"> <a href="https://twitter.com/ixkaushal" target="blank"><img src="https://img.shields.io/twitter/follow/ixkaushal?logo=twitter&style=for-the-badge" alt="ixkaushal" /></a> </p>
 
-- 📫 How to reach me **mail4kaushal.kr@gmail.com**
+
+-<div align=centre> 📫 How to reach me **mail4kaushal.kr@gmail.com** </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
