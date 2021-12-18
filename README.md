@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushal Kumar</h1>
 <h3 align="center">A 3rd Year CSE student with marketing and SEO skills</h3>
 
-
-
--<div align=centre> 📫 How to reach me **mail4kaushal.kr@gmail.com** </div>
+- 📫 How to reach me **mail4kaushal.kr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
