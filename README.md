@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaushal Kumar</h1>
 <h3 align="center">A 3rd Year Passionate CSE Student with Marketing and SEO Skills</h3>
 
-- 📫 Connect me through **mail4kaushal.kr@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ixkaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ixkaushal" height="30" width="40" /></a>
