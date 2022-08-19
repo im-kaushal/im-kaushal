@@ -1,5 +1,5 @@
 # 💫 About Me:
-<b>🙋‍♂️ A self-driven, hardworking & astute learner<br> 🌱Currently learning and exploring different technologies such as React, React-native, SpringBoot, MERN Stack, SEO, etc.<br>💬 Ask me about Java, Digital Marketing, SEO<br>⚡ Fun fact: I love Java but I can't C </b>
+<b>🙋‍♂️ A self-driven, hardworking & astute learner<br> 🌱Currently learning and exploring different technologies such as React, React-native, SpringBoot, MERN Stack, SEO, etc.<br>💬 Ask me about Java, Digital Marketing, SEO<br>⚡ Fun fact: Let me C Java, I won't say OOPs! </b>
 
 
 ## 🌐 Socials:
