@@ -4,7 +4,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=im-kaushal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/im-kaushal/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ixkaushal/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kausal.in/)
 [![GFG](https://img.shields.io/badge/GFG-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kaushal4u/practice)
 
 
