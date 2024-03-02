@@ -1,5 +1,5 @@
 # 💫 About Me:
-<b>🙋‍♂️ A self-driven, hardworking & astute learner<br> 🌱Currently learning and exploring different technologies such as React, React-native, SpringBoot, AWS, MERN Stack, etc.<br>💬 Ask me about React-native, Java, SEO<br>⚡ Fun fact: Let me C JavaScript, I won't say OOPs, x'D! </b>
+<b>🙋‍♂️ A self-driven, hardworking & astute learner<br> 🌱Currently learning and exploring different technologies such as SpringBoot, AWS, MERN Stack, etc.<br>💬 Ask me about React-native, Java, SEO<br>⚡ Fun fact: Let me C JavaScript, I won't say OOPs, x'D! </b>
 
 ![](https://github-readme-stats.vercel.app/api?username=im-kaushal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ## 🌐 Socials:
