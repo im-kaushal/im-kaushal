@@ -1,7 +1,7 @@
 <!-- Add your name and a catchy introduction -->
 # 👋 Hi, I'm Kaushal Kumar!
 
-<b>🙋‍♂️ A self-driven, hardworking & astute learner<br> 🌱Currently learning and exploring different technologies such as SpringBoot, AWS, MERN Stack, etc.<br>💬 Ask me about React-native, Java, SEO<br>⚡ Fun fact: Let me C JavaScript, I won't say OOPs, x'D! </b>
+<b>🙋‍♂️ A self-driven, hardworking & astute learner<br> 🌱Currently learning and exploring different technologies such as Google Cloud, AWS, MERN Stack, etc.<br>💬 Ask me about React-native, Java, SEO<br>⚡ Fun fact: Let me C JavaScript, I won't say OOPs, x'D! </b>
 
 <!-- Add your GitHub stats -->
 ![](https://github-readme-stats.vercel.app/api?username=im-kaushal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -32,6 +32,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/im-kaushal/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kausal.in/)
 [![GFG](https://img.shields.io/badge/GFG-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kaushal4u/practice)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/profile/badges)
 
 <!-- Add a Tech Stack section with cool badges -->
 # 💻 Tech Stack:
