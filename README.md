@@ -32,7 +32,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/im-kaushal/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kausal.in/)
 [![GFG](https://img.shields.io/badge/GFG-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kaushal4u/practice)
-[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/profile/badges)
+[![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/profile/badges)
 
 <!-- Add a Tech Stack section with cool badges -->
 # 💻 Tech Stack:
