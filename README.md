@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kaushal Kumar!
+# 👋 Hi, I'm Kaushal!
 
 <b>🙋‍♂️ A self-driven, hardworking & astute learner<br> 🌱Currently learning and exploring different technologies such as AWS, DevOps, Backend Frameworks, GenAI etc.<br>💬 Ask me about React-native, Java, SEO<br>⚡ Fun fact: Let me C JavaScript, I won't say OOPs, x'D! </b>
 
