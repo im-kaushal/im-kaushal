@@ -175,7 +175,7 @@ fun_fact: "Let me C JavaScript, I won't say OOPs, x'D! 😄"
 <summary><b>💻 Damco Solutions Pvt. Ltd. | Software Engineer Trainee | Noida | Jan 2023 – Feb 2024</b></summary>
 <br/>
 
-> 🔹 Closed **187 bugs in a single week** 🐛💪 — setting a team record!
+> 🔹 Closed **187 bugs in a single sprint** 🐛💪 — setting a team record!
 >
 > 🔹 Contributed to cross-platform development for insurance and e-commerce apps
 >
@@ -267,9 +267,6 @@ Developed a full-featured mobile e-commerce application with cart management, pr
 
 <br/>
 
-<!-- GitHub Stats Section -->
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175ac7e5571a.png" width="30" /> &nbsp;GitHub Analytics
-
 <div align="center">
 
 <!-- Trophies -->
@@ -302,15 +299,6 @@ Developed a full-featured mobile e-commerce application with cart management, pr
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=im-kaushal&bg_color=0D1117&color=6AD3F7&line=F8D866&point=FFFFFF&area_color=6AD3F7&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" width="95%" />
 
 <br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/im-kaushal/im-kaushal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/im-kaushal/im-kaushal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/im-kaushal/im-kaushal/output/github-snake-dark.svg" />
-</picture>
-
-> 💡 *Set up the [Snake workflow](https://github.com/Platane/snk) in your repo to generate the snake animation!*
 
 </div>
 
