@@ -445,11 +445,6 @@ If you find my projects helpful, consider giving them a ⭐!
 
 <br/><br/>
 
-<!-- Spotify / Music Widget Placeholder -->
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xxxxxxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=true&bar_color=6AD3F7" alt="Spotify" />
-
-> 🎵 *Connect your Spotify with [spotify-github-profile](https://github.com/kittinanx/spotify-github-profile) to show what you're listening to!*
-
 </div>
 
 <br/>
