@@ -491,10 +491,6 @@ If you find my projects helpful, consider giving them a ⭐!
 <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/From-India%20🇮🇳-orange?style=for-the-badge" />
 
-<br/>
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=im-kaushal&icon=6&color=6)
-
 <b>Thanks for visiting! Have a great day! 😄</b>
 
 </div>
