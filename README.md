@@ -290,9 +290,6 @@ Developed a full-featured mobile e-commerce application with cart management, pr
 
 <br/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-kaushal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=C9D1D9&layout=donut-vertical&langs_count=8" alt="Top Languages" width="350" />
-
 <br/><br/>
 
 <!-- Activity Graph -->
@@ -375,9 +372,9 @@ Developed a full-featured mobile e-commerce application with cart management, pr
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   🎭  SPIC MACAY  (2020 – Present)                          ║
+║   🎭  SPIC MACAY  (2020 – Present)                           ║
 ║                                                              ║
-║   🔹 National Technical Coordinator                         ║
+║   🔹 National Technical Coordinator                          ║
 ║   🔹 Punjab State Lead                                      ║
 ║   🔹 Coordinating national & international cultural events  ║
 ║   🔹 Promoting Indian classical music & culture in youth    ║
@@ -427,7 +424,6 @@ Developed a full-featured mobile e-commerce application with cart management, pr
 
 </div>
 
-<br/>
 
 <!-- Support Section -->
 <div align="center">
