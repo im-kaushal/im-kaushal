@@ -425,9 +425,6 @@ Developed a full-featured mobile e-commerce application with cart management, pr
 
 <br/><br/>
 
-<!-- Fun Metrics -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=im-kaushal&repo=im-kaushal&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
 </div>
 
 <br/>
