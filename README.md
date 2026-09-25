@@ -5,7 +5,7 @@
 
 <!-- Interactive Terminal Typing Animation -->
 <a href="https://kausal.in" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Software+Engineer+(SDE+II)+at+HashedIn+by+Deloitte;%E2%9A%A1+3.5%2B+Years+Shipping+High-Scale+Web+%26+Mobile+Architectures;%F0%9F%8F%A2+Client+Impact%3A+Marriott+International+%7C+Citi+Bank+%7C+Colina;%E2%98%81%EF%B8%8F+AWS+Certified+Developer+%7C+Claude+Certified+Architect;%F0%9F%9A%80+React+%7C+TypeScript+%7C+Angular+%7C+React+Native+%7C+Perf+Obsessed" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Software+Engineer+(SDE+II)+at+HashedIn+by+Deloitte;%E2%9A%A1+3.5%2B+Years+Shipping+High-Scale+Web+%26+Mobile+Architectures;%F0%9F%8F%A2+Client+Impact%3A+Marriott+International+%7C+Citi+Bank+%7C+Colina" alt="Typing SVG" />
 </a>
 
 <br/>
