@@ -1,13 +1,14 @@
 <div align="center">
 
 <!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=Kaushal%20Kumar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Frontend%20Software%20Engineer%20%7C%20React%2C%20TypeScript%20%26%20Mobile%20%7C%20AWS%20Certified&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="Kaushal Kumar Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=Kaushal%20Kumar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Frontend%20Software%20Engineer%20%7C%20React%2C%20TypeScript%20and%20Mobile%20%7C%20AWS%20Certified&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="Kaushal Kumar Header" />
 
 <!-- Interactive Terminal Typing Animation -->
 <a href="https://kausal.in" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Software+Engineer+(SDE+II)+at+HashedIn+by+Deloitte;%E2%9A%A1+3.5%2B+Years+Shipping+High-Scale+Web+%26+Mobile+Architectures;%F0%9F%8F%A2+Client+Impact%3A+Marriott+International+%7C+Citi+Bank+%7C+Colina;%E2%98%81%EF%B8%8F+AWS+Certified+Developer+%7C+Claude+Certified+Architect;%F0%9F%9A%80+React+%7C+TypeScript+%7C+Angular+%7C+React+Native+%7C+Perf+Obsessed" alt="Typing SVG" />
 </a>
 
+<br/>
 <br/>
 
 <!-- Real-time Status Badges -->
@@ -166,7 +167,7 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=im-kaushal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=FBBF24&text_color=94A3B8&count_private=true&include_all_commits=true" width="100%" alt="Kaushal's GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=im-kaushal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=FBBF24&text_color=94A3B8&count_private=true&include_all_commits=true" width="100%" alt="Kaushal's GitHub Stats" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-kaushal&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FBBF24&currStreakLabel=38BDF8" width="100%" alt="Kaushal's Contribution Streak" />
@@ -174,7 +175,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-kaushal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="60%" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=im-kaushal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="60%" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -182,7 +183,7 @@
 <br/>
 
 <!-- Smooth Contribution Activity Spline -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=im-kaushal&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area_color=38BDF8&area=true&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Frequency%20%26%20Commit%20Trajectory" width="98%" alt="Activity Graph" />
+<img src="https://github-activity-graph.vercel.app/graph?username=im-kaushal&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area_color=38BDF8&area=true&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Frequency%20and%20Commit%20Trajectory" width="98%" alt="Activity Graph" />
 
 </div>
 
